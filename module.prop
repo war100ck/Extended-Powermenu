@@ -1,0 +1,7 @@
+id=FullPowermenu
+name=Moded Extended Powermenu - Xiaomi Redmi 5
+version=v0.1
+versionCode=3
+author=WAR100CK
+description=Модификация расширенного меню перезагрузки, которое включает в себя еще две допонительные кнопки перезагрузки в TWRP и Fastboot. Сделано для Xiaomi Redmi 5.
+minMagisk=15000
